@@ -1,0 +1,59 @@
+.bg-color1 {
+    background-color: #1f344b !important;
+}
+
+.bg-color2 {
+    background-color: rgb(28, 187, 139) !important;
+}
+
+.nav-link:hover {
+    color: rgb(28, 187, 139) !important;
+}
+
+/* section 1 */
+.newColor {
+    color: #1f344b;
+}
+
+.logo {
+    width: 270px;
+    height: 200px;
+}
+
+.logo:hover .iconLogo {
+    cursor: pointer;
+    opacity: 0.2;
+}
+
+.logo:hover .searchIcon {
+    cursor: pointer;
+    display: block !important;
+}
+
+.iconLogo {
+    width: 150px;
+    height: 150px;
+}
+
+/* section 2 */
+.downloadNow:hover {
+    cursor: pointer;
+    background-color: white;
+}
+
+.downloadNow:hover .sec2Color {
+    color: rgb(0, 0, 0) !important;
+}
+
+/* section4 */
+.ico {
+    width: 35px;
+    height: 35px;
+}
+
+.ico:hover {
+    cursor: pointer;
+    background-color: rgb(214, 213, 213);
+    color: rgb(0, 0, 0);
+    transition: 1s;
+}
